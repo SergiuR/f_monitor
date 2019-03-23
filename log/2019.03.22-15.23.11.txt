@@ -1,0 +1,85 @@
+Файлы обнаруженые при запуске: 
+------------------------------------------------
+DIR    AMD
+DIR    asas
+DIR    pfdsop
+DIR    popsd
+DIR    qwx
+DIR    sadsad
+DIR    sas
+DIR    time
+DIR    web
+DIR    yrlsda
+FILE   archive.rar
+FILE   отчет.docx
+FILE   Прочти меня.txt
+------------------------------------------------
+
+Снимок сделан: 2019.03.22 15.23.11
+------------------------------------------------
+DIR    AMD
+DIR    asas
+DIR    pfdsop
+DIR    popsd
+DIR    qwx
+DIR    sadsad
+DIR    sas
+DIR    time
+DIR    web
+DIR    yrlsda
+FILE   archive.rar
+FILE   отчет.docx
+FILE   Прочти меня.txt
+------------------------------------------------
+
+Снимок сделан: 2019.03.22 15.23.21
+------------------------------------------------
+DIR    AMD
+DIR    asas
+DIR    pfdsop
+DIR    popsd
+DIR    qwx
+DIR    sadsad
+DIR    sas
+DIR    time
+DIR    web
+DIR    yrlsda
+FILE   archive.rar
+FILE   отчет.docx
+FILE   Прочти меня.txt
+------------------------------------------------
+
+Снимок сделан: 2019.03.22 15.23.31
+------------------------------------------------
+DIR    AMD
+DIR    asas
+DIR    pfdsop
+DIR    popsd
+DIR    qwx
+DIR    sadsad
+DIR    sas
+DIR    time
+DIR    web
+DIR    yrlsda
+FILE   archive.rar
+FILE   отчет.docx
+FILE   Прочти меня.txt
+------------------------------------------------
+
+Снимок сделан: 2019.03.22 15.23.41
+------------------------------------------------
+DIR    AMD
+DIR    asas
+DIR    pfdsop
+DIR    popsd
+DIR    qwx
+DIR    sadsad
+DIR    sas
+DIR    time
+DIR    web
+DIR    yrlsda
+FILE   archive.rar
+FILE   отчет.docx
+FILE   Прочти меня.txt
+------------------------------------------------
+

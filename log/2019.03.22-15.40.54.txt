@@ -1,0 +1,36 @@
+Файлы обнаруженные при запуске: 
+------------------------------------------------
+DIR    C:\projects\daemon\tmp\AMD
+DIR    C:\projects\daemon\tmp\asas
+DIR    C:\projects\daemon\tmp\pfdsop
+DIR    C:\projects\daemon\tmp\popsd
+DIR    C:\projects\daemon\tmp\qwx
+DIR    C:\projects\daemon\tmp\sadsad
+DIR    C:\projects\daemon\tmp\sas
+DIR    C:\projects\daemon\tmp\time
+DIR    C:\projects\daemon\tmp\web
+DIR    C:\projects\daemon\tmp\yrlsda
+FILE   C:\projects\daemon\tmp\archive.rar
+FILE   C:\projects\daemon\tmp\отчет.docx
+FILE   C:\projects\daemon\tmp\Прочти меня.txt
+FILE   C:\projects\daemon\tmp\readme.docx
+------------------------------------------------
+
+Снимок сделан: 2019.03.22 15.40.54
+------------------------------------------------
+DIR    AMD
+DIR    asas
+DIR    pfdsop
+DIR    popsd
+DIR    qwx
+DIR    sadsad
+DIR    sas
+DIR    time
+DIR    web
+DIR    yrlsda
+FILE   archive.rar
+FILE   отчет.docx
+FILE   Прочти меня.txt
+FILE   readme.docx
+------------------------------------------------
+
